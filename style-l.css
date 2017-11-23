@@ -2,7 +2,7 @@
 
 body {
     margin: 24px 10px;
-    font-family: Arial, '新細明體', sans-serif;
+    font-family: Arial, '微軟正黑體', sans-serif;
 }
 
 
@@ -136,6 +136,7 @@ header {
 #headerpost .more {
     font-size: 18px;
     font-family: 'Maven Pro', Helvetica, Arial, sans-serif;
+    font-family: 'Nanum Brush Script', serif;
     text-align: right;
 }
 
